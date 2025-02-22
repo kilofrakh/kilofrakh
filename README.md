@@ -8,7 +8,7 @@
 
 ## 🔥 My Skills  
 - **Languages:** Python, C, MYSQL, Java  
-- 
+
 ### **🧠 Machine Learning & AI**  
 - Supervised & Unsupervised Learning  
 - Deep Learning (CNNs, RNNs, Transformers)  
