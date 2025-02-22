@@ -10,7 +10,7 @@
 - **Languages:** Python, C, MYSQL, Java  
 - **Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
 - **Data Analysis:** Pandas, NumPy, Matplotlib  
-- **Cloud & Deployment:** AWS, Docker, Flask  
+- **Cloud & Deployment:** AWS, Flask  
 
 ## 🚀 Featured Projects  
 🔹 [Earthquake Prediction](https://github.com/kilofrakh/Earthquake-Prediction)  
