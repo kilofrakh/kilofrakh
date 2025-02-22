@@ -7,7 +7,7 @@
 💡 Interested in **AI/ML, Deep Learning, and Predictive Analytics.**  
 
 ## 🔥 My Skills  
-- **Languages:** Python, C++, SQL  
+- **Languages:** Python, C, MYSQL, Java  
 - **Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
 - **Data Analysis:** Pandas, NumPy, Matplotlib  
 - **Cloud & Deployment:** AWS, Docker, Flask  
