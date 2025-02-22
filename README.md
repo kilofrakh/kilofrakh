@@ -9,8 +9,8 @@
 ## 🔥 My Skills  
 - **Languages:** Python, C, MYSQL, Java  
 - **Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
-- **Data Analysis:** Pandas, NumPy, Matplotlib  
-- **Cloud & Deployment:** AWS, Flask  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Cloud & Deployment:** Flask  
 
 ## 🚀 Featured Projects  
 🔹 [Earthquake Prediction](https://github.com/kilofrakh/Earthquake-Prediction)  
