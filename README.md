@@ -3,7 +3,7 @@
 🎓 **AI & Machine Learning Enthusiast** | 📍 **Cairo, Egypt**  
 
 🔬 Passionate about AI-driven solutions for real-world problems.  
-🚀 Currently working on **AI-driven dynamic pricing for EV charging.**  
+🚀 Currently working on **Rag's.**  
 💡 Interested in **AI/ML, Deep Learning, and Predictive Analytics.**  
 
 ## 🔥 My Skills  
